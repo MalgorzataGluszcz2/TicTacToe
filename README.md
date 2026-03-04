@@ -6,3 +6,9 @@ I made it in pure C++ to practice my problem solving skills and learn how to mak
 * Create a new project and copy files to the proper folder
 * In Visual Studio click green arrow
 * Game starts
+
+## What I added to this project?
+* Minimax algorithm to make a simple AI
+* OOP
+* I use std::pair, std::array, too
+* C++17 features like std::optional
